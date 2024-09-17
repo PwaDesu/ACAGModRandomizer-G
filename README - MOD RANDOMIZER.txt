@@ -28,7 +28,7 @@ This simple program picks a random available mod for each available character be
 |===== Winter Clothing
 
 4 - Remove the mods you want to be randomized from the "Mods" folder, you can keep any mod you want to always be loaded
-5 - You're all set, run "Prepare mods.bat" whenever you want to play Genshin with mods; the script will launch 3DMigoto for you so you only need to launch Genshin after running this script.
+5 - You're all set, run "ACAGModRandomizer-G.exe" whenever you want to play Genshin with mods; the program will launch 3DMigoto for you so you only need to launch Genshin afterwards.
 
 Note: The script does not perform any destructive operation. All files in the "Random Mods" folder will be untouched, and only the shortcuts created by the previous run of the script in the "Mods" folder are removed when running the script again.
 
