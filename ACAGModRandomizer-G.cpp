@@ -11,7 +11,7 @@
 
 int main()
 {
-    std::cout << "Genshin mod randomizer - this is a miniscule free script, if you've paid for this, you've been scammed";
+    std::cout << "Genshin mod randomizer 1.0.0 - this is a miniscule free script, if you've paid for this, you've been scammed\n";
     srand(time(NULL));
     const std::filesystem::path mods_path{ std::filesystem::absolute("Mods")};
     const std::filesystem::path random_mods_path{ std::filesystem::absolute("Random Mods") };
