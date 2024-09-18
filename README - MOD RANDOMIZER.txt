@@ -41,4 +41,4 @@ If the program closes unexpectedly:
 
 == Known issues ==
 
-- The previous mod's toggles are reset when a different one for the same character is selected. This is due to however 3DMigoto saves that data, and I do not currently know how to fix it.
+- The previous mod's toggles are reset when a different one for the same character is selected. This is due to however GIMI saves that data, and I do not currently know how to fix it.
